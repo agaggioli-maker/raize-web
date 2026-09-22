@@ -6,4 +6,6 @@ Página estática (HTML/CSS/JS), sin base de datos ni servicios pagos.
 Todos los botones apuntan al número +54 9 341 628-4853 con mensajes prearmados.
 
 ## GitHub Pages
-El sitio está preparado para publicarse desde la rama main y la carpeta raíz del repositorio.
+El sitio está preparado para publicarse desde la rama `main` y la carpeta raíz del repositorio.
+
+Última actualización: publicación preparada para GitHub Pages.
